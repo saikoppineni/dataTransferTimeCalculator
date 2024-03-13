@@ -59,5 +59,5 @@ app.post("/sendMail",(req,res)=>{
 })
 
 app.listen(port,(req,res)=>{
-    console.log("server running on port 3000");
+    console.log("server running on  3000");
 })
